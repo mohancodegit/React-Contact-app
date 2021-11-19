@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "cfd70d40-192d-437f-b649-b1d9d76a4873",
+      "name": "superadmin",
+      "email": "javascript@gmail.com"
+    },
+    {
+      "id": "da2506ca-49b4-4924-b565-2aaef157b1f8",
+      "name": "Padma",
+      "email": "padma@yahoo.com"
+    },
+    {
+      "id": "3e0851d3-e3ff-434f-8ea9-a049f4d7bae0",
+      "name": "New Website1",
+      "email": "web@gmail.in"
+    },
+    {
+      "id": "42b0a8f7-2f52-4cac-8dc3-9824eeeabf6a",
+      "name": "Naga",
+      "email": "naga20@gmail.com"
+    },
+    {
+      "id": "d60e1717-8aae-48a5-8a97-7bf91273c587",
+      "name": "Mohan kumar A",
+      "email": "mohanaudi30@gmail.com"
+    }
+  ]
+}
